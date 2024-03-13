@@ -1,3 +1,10 @@
 docker run --name apivendas -p 5434:5432 -e POSTGRES_DB=apivendas -e POSTGRES_USER=admin -e POSTGRES_PASSWORD=123456 postgres:15
 
 Comando acima cria um novo container para o banco de dados docker
+
+criar migrations:
+
+npm run typeorm migration:create -- -n <Nome da Migration>
+
+rodar migrations
+npm run typeorm migration:run
