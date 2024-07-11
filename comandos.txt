@@ -8,3 +8,8 @@ npm run typeorm migration:create -- -n <Nome da Migration>
 
 rodar migrations
 npm run typeorm migration:run
+
+
+Caso acuso erro: "Error during migration run: QueryFailedError: function uuid_generate_v4() does not exist at QueryFailedError.TypeORMError [as constructor]"
+
+vá no banco, clique com o botão direito>criar>extensão>na tabela procure por uuid_ossp, selecione e de OK

@@ -1,0 +1,53 @@
+[33mcommit 84ce58ce4575f7668df86e512754907b0d756f4f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vini <visilva5690@hotmail.com>
+Date:   Wed Mar 13 20:28:10 2024 -0300
+
+    Feat: Migration da Tabela products
+
+[33mcommit 496abbecb487440e63d5819c56c4665bd3950112[m
+Author: Vini <visilva5690@hotmail.com>
+Date:   Wed Mar 13 20:13:10 2024 -0300
+
+    Feat: Configuração do TypeORM para Executar Migrações no Banco de Dados
+
+[33mcommit 0f179ba05455ebc649b454861df437adbec8e5b5[m
+Author: Vini <visilva5690@hotmail.com>
+Date:   Wed Mar 13 20:02:49 2024 -0300
+
+    Feat: Criação do Banco de Dados e Configuração da Conexão com o TypeORM
+
+[33mcommit 98f3131758edcf56dd987f9f5402faa99a06eb89[m
+Author: Vini <visilva5690@hotmail.com>
+Date:   Wed Mar 13 19:30:16 2024 -0300
+
+    Feat: Conceitos básico typeorm+instalacao
+
+[33mcommit 9548786c8a4334e157be02f1bab74808535a1dce[m
+Author: Vini <visilva5690@hotmail.com>
+Date:   Wed Mar 13 19:25:53 2024 -0300
+
+    Feat: Customizando o Tratamento de Erros da Aplicação
+
+[33mcommit 8aa0eeed7279c4bfb8f36f6a2eefbfa4fd22868a[m
+Author: Vini <visilva5690@hotmail.com>
+Date:   Mon Feb 19 22:03:47 2024 -0300
+
+    Feat: Criando a primeira Rota do sistema
+
+[33mcommit 3f8eccc1429f18f731b000a569b51e42c33dcf5d[m
+Author: Vini <visilva5690@hotmail.com>
+Date:   Mon Feb 19 21:53:45 2024 -0300
+
+    Feat: Criando estruturas de pastas da API
+
+[33mcommit 3b7f1b91f8a2578b4cb14ef1f123ed8e708d5c93[m
+Author: Vini <visilva5690@hotmail.com>
+Date:   Mon Feb 19 21:37:12 2024 -0300
+
+    Feat: Criação do Projeto
+
+[33mcommit d02227595ac4c7a388f9648016bff4271abdc586[m
+Author: Vinicius Silva Barreto Justino <75910933+JustinoVini@users.noreply.github.com>
+Date:   Mon Feb 19 21:18:16 2024 -0300
+
+    Initial commit
